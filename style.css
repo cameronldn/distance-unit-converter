@@ -1,13 +1,17 @@
 #inputSelection {
-    background-color: aliceblue;
     color: black;
     padding: 20px;
-    border-radius: 50px;
+    border-radius: 0px;
     align-content: center;
   }
 
+  div {
+    background-color: aliceblue;
+    border-radius: 50px;
+  }
+
   body {
-    background-color: slateblue;
+    background-color: lightsteelblue;
     padding: 20px;
     color: black;
     align-content: center;
@@ -16,18 +20,14 @@
 
   h1 {
     padding: 20px;
-    background-color: aliceblue;
-    border-radius: 50px;
     color: black;
     align-content: center;
     text-align: center;
   }
 
   p {
-    background-color: aliceblue;
     color: black;
     padding: 20px;
-    border-radius: 50px;
     align-content: center;
     text-align: center;
   }
